@@ -27,7 +27,7 @@ nav i {
   padding: 10px;
   display: flex;
 }
-.fa-solidfa-bars {
+.hamburger {
   display: none;
 }
 
@@ -122,6 +122,9 @@ footer {
   }
   .nav a {
     display: none;
+  }
+  .hamburger {
+    display: flex;
   }
 }
 
